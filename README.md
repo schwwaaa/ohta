@@ -41,7 +41,7 @@ fukuisan.askOhtaAbout('info', 'API', 'pullMapData', 'REQUEST');
 ``` json
 {
   "level": "info",
-  "message": "The chef is whisking thick cream with shallots, purreed mangoes and a lobster prawn sauce",
+  "message": "The chef is whisking thick cream with shallots, pureed mangoes and a lobster prawn sauce",
   "operation": "whiskingCream",
   "requestId": "3de0c9f06cf61470b22bd6eedcb2a6105e64144c",
   "service": "chefBattle",
